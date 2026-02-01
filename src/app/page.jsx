@@ -64,10 +64,10 @@ export default function CreativePortfolioHome() {
       {/* Start Hero Section */}
       <Hero3
         title="Fine Works <br > Advertisments"
-        btnLink="contact"
+        btnLink="https://wa.me/+923206316386"
         btnText={`Let's talk`}
         socialLinksHeading="Follow Us"
-        heroSocialLinks="https://wa.me/+923206316386"
+        heroSocialLinks={heroSocialLinks}
         bgImageUrl="/images/hero_bg_6.jpeg"
       />
       {/* End Hero Section */}
