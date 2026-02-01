@@ -67,7 +67,7 @@ export default function CreativePortfolioHome() {
         btnLink="contact"
         btnText={`Let's talk`}
         socialLinksHeading="Follow Us"
-        heroSocialLinks={heroSocialLinks}
+        heroSocialLinks="https://wa.me/+923206316386"
         bgImageUrl="/images/hero_bg_6.jpeg"
       />
       {/* End Hero Section */}
